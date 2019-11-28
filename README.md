@@ -13,6 +13,11 @@ This seed project has the following:
 
 ![Image of Landing Page](src/assets/img/home.png)
 
+## Setup
+1. Fork/Clone this repository `git clone https://github.com/stayingcool/angular8-datatables.net.git`
+2. Move to directory in the terminal `cd angular8-datatables.net`
+2. Run `npm install`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
