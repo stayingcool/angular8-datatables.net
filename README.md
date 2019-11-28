@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
+It has the following:
+- Angular 8.x
+- Bootstrap 4.x
+- JQuery 3.4.x
+- Datatables with bootstrap
+- Excel and Column Visibility
+
+## Landing Page (Datatables with Excel and Colvis)
+
+![Image of Landing Page](src/assets/img/home.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
