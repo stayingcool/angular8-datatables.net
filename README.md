@@ -1,8 +1,8 @@
-# AngularDatatables
+# Angular with Datatables (Vanilla JS)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
-It has the following:
+This seed project has the following:
 - Angular 8.x
 - Bootstrap 4.x
 - JQuery 3.4.x
