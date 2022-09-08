@@ -24,7 +24,7 @@
     "datatables.net-buttons-bs4": "^1.6.1",
     "datatables.net-responsive-bs4": "^2.2.3",
     "jquery": "^3.4.1",
-    "jszip": "^3.2.2",
+    "jszip": "^3.7.0",
     "rxjs": "~6.4.0",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
